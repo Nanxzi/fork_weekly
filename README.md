@@ -2,34 +2,27 @@
 
 记录每周值得分享的科技内容，周五发布。
 
-欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
+欢迎投稿文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/7674)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/7674)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。
 
-## 如何搜索
+## 赞助商
 
-周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。
-
-1、使用 GitHub 自带的网页搜索。
-
-2、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) 进行搜索。
-
-3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
-
-```bash
-$ grep -nri [搜索词] docs | cat --number
-```
-
-比如，搜索 CSS 相关内容。
-
-```bash
-$ grep -nri css docs | cat --number
-```
+<div align="center">
+<a href="https://go.warp.dev/weekly" target="_blank">
+<img alt="Warp sponsorship" width="400" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png?raw=true">
+<br>
+<h>Warp 专为 AI 代理编码而构建</b>
+<br>
+<sup>支持 macOS, Linux 和 Windows</sup>
+</a>
+</div>
 
 ## 2025
 
 **九月**
 
+- 第 366 期：[旧金山疯狂的 AI 广告](docs/issue-366.md)
 - 第 365 期：[流量变现正在崩塌](docs/issue-365.md)
 - 第 364 期：[最难还原的魔方](docs/issue-364.md)
 
