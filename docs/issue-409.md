@@ -312,7 +312,7 @@ TEMU 、Shein 和其他一些公司围绕着这样一个理念打造了令人瞠
 
 3、
 
-互联网最初的设想，只是 `/var/ww/html`目录里面几个 HTML 文件，谁能想到后来竟变成了如今这样复杂的软件和内容管理系统。
+互联网最初的设想，只是 `/var/www/html` 目录里面几个 HTML 文件，谁能想到后来竟变成了如今这样复杂的软件和内容管理系统。
 
 -- [《网站管理员的宣言》](https://brennan.day/webmaster-a-manifesto-for-everyone/)
 
