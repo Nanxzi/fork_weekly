@@ -12,7 +12,7 @@
 
 ## 再见了，React Native
 
-Spotify [宣布](https://shopify.engineering/back-to-native)，放弃 React Native，改用 Swift 和 Kotlin 开发它的移动版。
+Shopify [宣布](https://shopify.engineering/back-to-native)，放弃 React Native，改用 Swift 和 Kotlin 开发它的移动版。
 
 ![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091307.webp)
 
@@ -20,7 +20,7 @@ Spotify [宣布](https://shopify.engineering/back-to-native)，放弃 React Nati
 
 这不禁让人想起，六年前的2020年，它也是写了[一篇文章](https://shopify.engineering/react-native-future-mobile-shopify)，高调宣布放弃原生语言，全面转向 React Native，拥抱 Web 技术。
 
-这在当时是一个大新闻，很多人认同 Spotify 选择 Web 技术的三个理由。
+这在当时是一个大新闻，很多人认同 Shopify 选择 Web 技术的三个理由。
 
 > - 不用为每个平台重复开发相同的功能。
 > - 允许开发人员跨技术栈工作。
@@ -208,7 +208,7 @@ macOS 桌面歌词工具，实时查找显示正在播放的歌曲的歌词。�
 
 网络设备拓扑图的网页设计工具。（[@abpyu](https://github.com/ruanyf/weekly/issues/11622) 投稿）
 
-2、[视觉风格图鉴](https://ruanyf.github.io/squoosh/editor)
+2、[视觉风格图鉴](https://visualstyles.jerrymakes.com/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091309.webp)
 
